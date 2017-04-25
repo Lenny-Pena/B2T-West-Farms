@@ -1,0 +1,11 @@
+li {
+	float: left;
+	color:red;
+	}
+
+
+li a {
+	display: block;
+    text-align: center;
+    padding: 14px 40px;
+}
