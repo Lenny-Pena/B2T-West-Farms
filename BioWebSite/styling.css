@@ -1,11 +1,28 @@
-li {
-	float: left;
-	color:red;
+li { 
+	color: red;
+	display: inline-block;
+	background-color: #050;
 	}
 
 
 li a {
+	
 	display: block;
     text-align: center;
-    padding: 14px 40px;
+    padding: 14px 60px;
+    text-decoration: none;
+
+}
+
+ul {
+	text-align: center;
+	background: rgba(0, 0, 0, 0.5);
+	overflow: hidden;
+	list-style-type: none;
+	padding: 0 auto;
+
+}
+body {
+	background-image: url(http://wallpapercave.com/wp/YVnW7ve.jpg);
+	background-size: cover;
 }
